@@ -1,0 +1,23 @@
+[01] - Python 3.10
+https://www.python.org
+	- virtualenv
+	- virtualenvwapper
+	- WORKON_HOME devidamente configurado
+
+[02] - Visual Studio Code
+https://code.visualstudio.com/
+	Extensões instaladas:
+	    - Thunder Client;
+		- Material Icon Theme;
+		- Python;
+
+[03] - PostgreSQL
+https://www.postgresql.org/
+	OBS: Pode-se utilizar o SQLite que já tem integrado ao Python 3.
+
+[04] - pgAdmin 4 Desktop
+https://www.pgadmin.org/download/pgadmin-4-apt/
+	- Necessário apenas se for usar o Postgres ao invés do SQLite
+	- Pode-se usar outro cliente postgres
+	- Caso utilize o SQLite, precisará de um cliente SQLite, por exemplo SQLite Browser;
+
