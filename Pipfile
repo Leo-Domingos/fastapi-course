@@ -6,11 +6,17 @@ name = "pypi"
 [packages]
 fastapi = "*"
 gunicorn = "*"
-pydantic = "*"
 psycopg2-binary = "*"
 sqlalchemy = "*"
 asyncpg = "*"
 uvicorn = "*"
+sqlmodel = "*"
+python-jose = {extras = ["cryptography"], version = "*"}
+pytz = "*"
+passlib = "*"
+python-multipart = "*"
+pydantic = {extras = ["email"], version = "*"}
+bcrypt = "*"
 
 [dev-packages]
 
